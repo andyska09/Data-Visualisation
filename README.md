@@ -1,6 +1,6 @@
 # Overview
 
-Series of homework for course Data Visualisation at FIT CTU. Made in Python, using Pandas, Matplotlib, Numpy, NetworkX, Seaborn.
+Series of homework for course Data Visualisation at FIT CTU. Made in Python, using Pandas, Matplotlib, Numpy, NetworkX, Seaborn and Scikit.
 
 - 01 - Exlorative data analysis
 - 02 - Prague tram network analysis
